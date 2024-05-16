@@ -1,0 +1,22 @@
+{
+  "name": "cv-example",
+  "version": "1.0.0",
+  "description": "Ejemplo de aplicacion de node con docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloCoti/cv-example.git"
+  },
+  "author": "Pablo Coti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloCoti/cv-example/issues"
+  },
+  "homepage": "https://github.com/PabloCoti/cv-example#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
